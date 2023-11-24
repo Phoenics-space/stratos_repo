@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "stratos:ruby"
+    }
+  },
+  "result": {
+    "item": "stratos:ruby_block"
+  }
+}

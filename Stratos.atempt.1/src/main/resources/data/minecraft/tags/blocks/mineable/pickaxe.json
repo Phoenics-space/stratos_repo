@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "stratos:ruby_block",
+
+    "stratos:ruby_ore",
+
+    "stratos:stratos_stone",
+
+    "stratos:cobbled_stratos_stone"
+  ]
+}
